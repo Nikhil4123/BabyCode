@@ -40,11 +40,7 @@ npm install
 4. Start the development server:
 ```bash
 npm start
-```
-
-## Design Choices
-
-- Used Tailwind CSS for rapid development and consistent styling
+`pid development and consistent styling
 - Implemented a clean, professional color scheme that inspires trust and professionalism
 - Focused on responsive design to ensure a great experience across all devices
 - Used modular components for better code organization and reusability
